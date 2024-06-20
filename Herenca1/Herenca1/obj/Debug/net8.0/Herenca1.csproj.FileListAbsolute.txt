@@ -1,0 +1,14 @@
+C:\Projeto C#\Herenca1\Herenca1\bin\Debug\net8.0\Herenca1.exe
+C:\Projeto C#\Herenca1\Herenca1\bin\Debug\net8.0\Herenca1.deps.json
+C:\Projeto C#\Herenca1\Herenca1\bin\Debug\net8.0\Herenca1.runtimeconfig.json
+C:\Projeto C#\Herenca1\Herenca1\bin\Debug\net8.0\Herenca1.dll
+C:\Projeto C#\Herenca1\Herenca1\bin\Debug\net8.0\Herenca1.pdb
+C:\Projeto C#\Herenca1\Herenca1\obj\Debug\net8.0\Herenca1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\Herenca1\Herenca1\obj\Debug\net8.0\Herenca1.AssemblyInfoInputs.cache
+C:\Projeto C#\Herenca1\Herenca1\obj\Debug\net8.0\Herenca1.AssemblyInfo.cs
+C:\Projeto C#\Herenca1\Herenca1\obj\Debug\net8.0\Herenca1.csproj.CoreCompileInputs.cache
+C:\Projeto C#\Herenca1\Herenca1\obj\Debug\net8.0\Herenca1.dll
+C:\Projeto C#\Herenca1\Herenca1\obj\Debug\net8.0\refint\Herenca1.dll
+C:\Projeto C#\Herenca1\Herenca1\obj\Debug\net8.0\Herenca1.pdb
+C:\Projeto C#\Herenca1\Herenca1\obj\Debug\net8.0\Herenca1.genruntimeconfig.cache
+C:\Projeto C#\Herenca1\Herenca1\obj\Debug\net8.0\ref\Herenca1.dll
